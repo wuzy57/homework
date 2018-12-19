@@ -1,5 +1,6 @@
 ## ——智能蛇简略介绍
 ![智能蛇](https://img-blog.csdn.net/20171227181659682?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc3lzdV9saWFuZ3dq/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 如图，智能蛇即为自己去吃食物的贪吃蛇。
 ## ——智能蛇的实行方法
     先判断是否可以吃到食物
